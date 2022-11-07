@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AwesomePproject2.0",
+    "slug": "AwesomePproject2_0",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
